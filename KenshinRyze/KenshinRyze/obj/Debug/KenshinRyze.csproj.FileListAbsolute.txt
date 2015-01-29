@@ -1,0 +1,16 @@
+C:\Users\Mesut Sword\Desktop\BF3H\KenshinRyze\KenshinRyze\bin\Debug\KenshinRyze.exe.config
+C:\Users\Mesut Sword\Desktop\BF3H\KenshinRyze\KenshinRyze\bin\Debug\KenshinRyze.exe
+C:\Users\Mesut Sword\Desktop\BF3H\KenshinRyze\KenshinRyze\bin\Debug\KenshinRyze.pdb
+C:\Users\Mesut Sword\Desktop\BF3H\KenshinRyze\KenshinRyze\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Mesut Sword\Desktop\BF3H\KenshinRyze\KenshinRyze\bin\Debug\LeagueSharp.dll
+C:\Users\Mesut Sword\Desktop\BF3H\KenshinRyze\KenshinRyze\bin\Debug\SharpDX.dll
+C:\Users\Mesut Sword\Desktop\BF3H\KenshinRyze\KenshinRyze\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Mesut Sword\Desktop\BF3H\KenshinRyze\KenshinRyze\bin\Debug\SharpDX.Toolkit.dll
+C:\Users\Mesut Sword\Desktop\BF3H\KenshinRyze\KenshinRyze\bin\Debug\SharpDX.Toolkit.Graphics.dll
+C:\Users\Mesut Sword\Desktop\BF3H\KenshinRyze\KenshinRyze\bin\Debug\clipper_library.dll
+C:\Users\Mesut Sword\Desktop\BF3H\KenshinRyze\KenshinRyze\bin\Debug\LeagueSharp.xml
+C:\Users\Mesut Sword\Desktop\BF3H\KenshinRyze\KenshinRyze\bin\Debug\SharpDX.Toolkit.xml
+C:\Users\Mesut Sword\Desktop\BF3H\KenshinRyze\KenshinRyze\bin\Debug\SharpDX.Toolkit.Graphics.xml
+C:\Users\Mesut Sword\Desktop\BF3H\KenshinRyze\KenshinRyze\obj\Debug\KenshinRyze.csprojResolveAssemblyReference.cache
+C:\Users\Mesut Sword\Desktop\BF3H\KenshinRyze\KenshinRyze\obj\Debug\KenshinRyze.exe
+C:\Users\Mesut Sword\Desktop\BF3H\KenshinRyze\KenshinRyze\obj\Debug\KenshinRyze.pdb
